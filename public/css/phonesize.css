@@ -1,0 +1,15 @@
+@media (min-width: 1025px) {
+    .mobile-tablet-only {
+        display: none;
+    }
+    .not-accessible {
+        display: block;
+    }
+}
+
+/* Show content for mobile and tablets (up to 1024px) */
+@media (max-width: 1024px) {
+    .not-accessible {
+        display: none;
+    }
+}

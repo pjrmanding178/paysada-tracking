@@ -1,0 +1,41 @@
+
+
+
+.button-main-css{
+    transition: background-color 0.50s;
+   color: white;
+    background-color: #30475E;
+}
+.button-main-css:hover{
+  
+    color: white;
+     background-color: #F05454;
+}
+.title-css{
+    color:#F05454;
+}
+.secTitle-css{
+    color: white;
+}
+
+/* For /user */
+
+
+p.css-date-top{
+    color: #AAA9C9;
+}
+
+h1.css-greetings-top{
+    color:#121212;
+}
+
+/* For bg main */
+
+body.css-body-admin-main{
+    background-image: url('public/images/jeep2.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Adjust the height as necessary */ 
+    width: 100%;
+}
+
