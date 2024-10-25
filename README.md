@@ -28,7 +28,7 @@ A real-time tracking system for jeepneys in Alaminos City, Dasol, and Infanta Ro
 
 - Install PHP
 - Install xampp
-- Install Larave
+- Install Laravel
 - Install Tailwind
 - My SQL for Auth
 - Firebase for Real-time Database
