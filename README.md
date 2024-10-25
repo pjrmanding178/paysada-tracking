@@ -26,13 +26,13 @@ A real-time tracking system for jeepneys in Alaminos City, Dasol, and Infanta Ro
 
 ### Requirements to run the project
 
-- **[Install PHP]
-- **[Install xampp]
-- **[Install Larave]
-- **[Install Tailwind]
-- **[My SQL for Auth]
-- **[Firebase for Real-time Database]
-- **[Javascript]
-- **[git & github]
+- Install PHP
+- Install xampp
+- Install Larave
+- Install Tailwind
+- My SQL for Auth
+- Firebase for Real-time Database
+- Javascript
+- git & github
 
 
